@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1448896461 source:c:\users\jngboko\documents\info 111\projet 2048\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<stdio.h>
+	<fstream>
+
+1476783616 source:c:\users\franck le big boss\documents\mes projtes\projet 2048\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<iomanip>
+	<windows.h>
+	<stdio.h>
+	<fstream>
+
