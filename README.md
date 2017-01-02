@@ -1,2 +1,2 @@
 # 2048-Project
-Version 2D sans interphace graphique du jeux 2048 en C++
+Version 2D of the 2048 game in C++
